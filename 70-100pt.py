@@ -30,5 +30,6 @@ drawpad.create_line(400,200,500,300)
 drawpad.create_rectangle(320,320,370,370)
 drawpad.create_rectangle(430,370,480,320)
 drawpad.create_rectangle(390,460,420,500)
-
+drawpad.create_oval(410,480,420,490)
+drawpad.create_rectangle(470,250,500,300)
 root.mainloop()
