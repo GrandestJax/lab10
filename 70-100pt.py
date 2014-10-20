@@ -27,4 +27,8 @@ drawpad.grid(row=0, column=1)
 drawpad.create_rectangle(300,300,500,500)
 drawpad.create_line(300,300,400,200)
 drawpad.create_line(400,200,500,300)
+drawpad.create_rectangle(320,320,370,370)
+drawpad.create_rectangle(430,370,480,320)
+drawpad.create_rectangle(390,460,420,500)
+
 root.mainloop()
